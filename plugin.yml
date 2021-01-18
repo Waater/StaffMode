@@ -1,0 +1,6 @@
+name: StaffMode
+main: xXWaterFrogzX\StaffMode\Main
+description: "A StaffMode plugin made for factions and other gamemodes!"
+version: 1.0.0
+author: xXWaterFrogzX
+api: 3.0.0
