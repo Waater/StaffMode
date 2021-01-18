@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace src/StaffMode/Main;
+namespace StaffMode\Main;
 
 
 use muqsit\invmenu\InvMenuHandler;
