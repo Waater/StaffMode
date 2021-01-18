@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace StaffMode\Main;
+namespace xXWaterFrogzX\StaffMode;
 
 
 use muqsit\invmenu\InvMenuHandler;
